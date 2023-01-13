@@ -5,6 +5,6 @@
 
 ## Jr. Digital Media Engineer
 
-My current job position requires me to help maintain and create graphics for the websites for Carlsbad Municipal School District. I have always been interested in web development, specifically UX, UI, and graphic design, and I currently have the opportunity to attend Rice University's Coding Bootcamp online. 
+My current job position requires me to create graphics for and help maintain the websites for Carlsbad Municipal School District. I have always been interested in web development, specifically UX, UI, and graphic design, and I currently have the opportunity to attend Rice University's Coding Bootcamp online. 
 
 I expect to graduate with a certification in May 2023. 
