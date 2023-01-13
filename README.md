@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Stephanie Miller, but I prefer to be called Stevie
 
 <!--
-**StevieMiller/StevieMiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**StevieMiller/StevieMiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Jr. Digital Media Engineer
 
